@@ -1,1 +1,94 @@
+body {
+    background-color: #EAECEE;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+	color: #17202A;
+}
+h1 {
+    color: black;
+    font-size: 40px;
+}
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #17202A;
+}
+ul.lis{
+	text-align: center;
+}
+
+li {
+
+    	list-style-type: none;
+	display: inline-block;
+}
+li.lis{
+	text-align: center;
+	float: center;
+}
+
+li a {
+    display: block;
+    color: #EAECEE;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #5D6D7E;
+}
+
+p {
+  line-height: 1.32em;
+  font-family: 'Hind Vadodara', sans-serif;
+  width: 90%;
+  color: #17202A;
+}
+
+a:link {
+	text-decoration: none;
+	color: purple;
+}
+a:hover {
+	text-decoration: none;
+	color:blue;
+}
+.aboutme {
+	font-family: sans-serif;
+	font-size: 40px;
+}
+.contact {
+	 font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+	font-size: 30px;
+}
+ul.lis, li.lis{
+	text-align: center;
+	padding-left: 33%;
+    	padding-right: 33%;
+}
+#resumeHead{
+	 text-align: center;
+	 background-color:  #EAECEE;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+	color: black;
+}
+#skills{
+	text-align: left;
+	 background-color: #EAECEE;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+	color: black;
+}
+#experience{
+	text-align: left;
+	 background-color: #EAECEE;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+	color: black;
+}
+#education{
+	text-align: left;
+	 background-color:  #EAECEE;
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+	color: black;
+}
