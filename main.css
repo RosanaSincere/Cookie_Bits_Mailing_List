@@ -12,8 +12,11 @@ h1 {
     line-height:1.0864em;
 }
 h2 {
-	font-size:1.5em;
-	line-height: 1.222em :
+	font-size:1em;
+	line-height: 1em;
+	text-align: center;
+	
+	
 }
 ol {
     list-style-type: none;
@@ -23,6 +26,7 @@ ol {
 }
 
 li {
+    
 }
 
 p {
