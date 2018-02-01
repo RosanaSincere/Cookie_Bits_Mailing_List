@@ -1,7 +1,8 @@
 html {
 	font-size:1.125em;
 	line-height:1.222em;
-	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+	font-family: "Helvetica", CenturyGothic, Geneva, AppleGothic, sans-serif;
+	
 }
 body {
     background-color: white;
@@ -30,7 +31,7 @@ ol {
 }
 
 li {
-    
+    margin:. 0.03em;
 }
 
 p {
