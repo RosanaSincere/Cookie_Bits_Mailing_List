@@ -30,7 +30,8 @@ ol {
 }
 
 li {
-    margin:. 0.03em;
+    margin: 0.03em;
+	padding: 0.03em;
 }
 
 .checkbox{
