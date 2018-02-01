@@ -36,6 +36,8 @@ li {
 
 .checkbox{
 	padding: 0.2em;
+	font-size: 0.9em;
+	text-align: left;
 }
 .name {
 	padding: 0.2em;	
