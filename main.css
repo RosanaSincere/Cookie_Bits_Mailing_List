@@ -14,7 +14,7 @@ h1 {
     font-size: 2.25em;
     line-height:1.0864em;
     /*color:  #273746;*/
-	color: #9999CC;
+	color: #FFFF00 ;
     text-align: center;
 }
 h2 {
@@ -30,7 +30,7 @@ ol {
     margin: 0;
     overflow: hidden;
     /*color:  #273746;*/
-	color: #9999CC;
+	color: #FFFF00;
 }
 
 li {
