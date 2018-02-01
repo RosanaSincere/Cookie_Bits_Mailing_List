@@ -35,6 +35,10 @@ li {
     margin:. 0.03em;
 }
 
+.checkbox{
+	margin: 0.2em;
+}
+
 /*p {
   line-height: 1.32em;
   font-family: 'Hind Vadodara', sans-serif;
