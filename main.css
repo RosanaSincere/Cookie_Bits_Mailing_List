@@ -20,11 +20,9 @@ ol {
     margin: 3em;
     padding: 5em;
     overflow: hidden;
-    border: hidden;
 }
 
 li {
-
     	list-style-type: none;
 	display: inline-block;
 }
