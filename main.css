@@ -17,6 +17,7 @@ h2 {
 }
 ol {
     list-style-type: none;
+    margin: 3em;
     overflow: hidden;
 }
 
