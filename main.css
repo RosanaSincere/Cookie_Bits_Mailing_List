@@ -20,8 +20,6 @@ h2 {
 	line-height: 1.4em;
 	text-align: center;
 	margin: 1.5em;
-	
-	
 }
 ol {
     list-style-type: none;
@@ -38,15 +36,6 @@ li {
 .checkbox{
 	margin: 0.2em;
 }
-
-/*p {
-  line-height: 1.32em;
-  font-family: 'Hind Vadodara', sans-serif;
-}*/
-
 .name {
-	margin: 2;
-	
-}
-.contact {
+	margin: 2;	
 }
