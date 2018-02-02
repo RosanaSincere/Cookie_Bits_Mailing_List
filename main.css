@@ -45,10 +45,10 @@ li {
 #button{
 	border: none;
 	background-color: gray;
-	font-size: 1.2em;
+	font-size: 0.62em;
 	cursor: pointer;
-	padding: 1em;
-	border-radius: 1em;
+	padding: 0.7em;
+	border-radius: 0.4em;
 	-webkit-transition-duration: 0.4s; 
 	/* Safari */
     transition-duration: 0.4s;
@@ -56,4 +56,3 @@ li {
 }
 #button:hover {
     background-color: #99FFFF;
-    color: white;
