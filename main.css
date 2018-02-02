@@ -45,9 +45,9 @@ li {
 #button{
 	border: none;
 	background-color: gray;
-	font-size: 0.62em;
+	font-size: 0.7em;
 	cursor: pointer;
-	padding: 0.7em;
+	padding: 0.85em;
 	border-radius: 0.4em;
 	-webkit-transition-duration: 0.4s; 
 	/* Safari */
