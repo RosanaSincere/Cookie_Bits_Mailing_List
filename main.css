@@ -34,7 +34,7 @@ ol {
 }
 
 li {
-	padding: 1em;
+	padding: 0.05em;
 	margin: 2em;
 	box-sizing:border-box;
 	-webkit-box-sizing:border-box;
