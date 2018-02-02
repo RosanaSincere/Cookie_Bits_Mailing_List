@@ -51,4 +51,15 @@ li {
 }
 .button{
 	border: none;
+	background-color: ##99FFFF;
+	cursor: pointer;
+	padding: 4em 10em;
+	border-radius: 3em;
+	-webkit-transition-duration: 0.4s; 
+	/* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
 }
+.button2:hover {
+    background-color: #008CBA;
+    color: white;
