@@ -44,15 +44,16 @@ li {
 
 #button{
 	border: none;
-	background-color: ##99FFFF;
+	background-color: gray;
+	font-size: 1.2em;
 	cursor: pointer;
-	padding: 4em 10em;
-	border-radius: 3em;
+	padding: 1em;
+	border-radius: 1em;
 	-webkit-transition-duration: 0.4s; 
 	/* Safari */
     transition-duration: 0.4s;
     cursor: pointer;
 }
 #button:hover {
-    background-color: #008CBA;
+    background-color: #99FFFF;
     color: white;
