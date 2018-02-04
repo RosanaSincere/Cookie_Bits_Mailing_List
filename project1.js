@@ -3,3 +3,4 @@
         $("input").hide();
        $('body').append('<h1> Thank You ' + name + '</h1>');
     });
+ });
