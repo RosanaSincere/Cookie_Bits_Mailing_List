@@ -1,7 +1,7 @@
 html {
-	font-size:1.125em;
-	line-height:1.222em;
-	font-family: 'Nunito', Didact Gothic, CenturyGothic, Geneva, AppleGothic, sans-serif;
+		font-size: 1.125em;
+		line-height: 1.222em;
+		font-family: 'Nunito', Didact Gothic, CenturyGothic, Geneva, AppleGothic, sans-serif;
 	
 }
 body {
@@ -12,7 +12,7 @@ body {
 }
 h1 {
     font-size: 2.25em;
-    line-height:1.0864em;
+    line-height: 1.0864em;
     /*color:  #273746;*/
 	color: white;
     text-align: center;
@@ -30,15 +30,15 @@ ol {
     margin: 1em;
     overflow: hidden;
     /*color:  #273746;*/
-	color:  white ;
+	color: white ;
 }
 
 li {
 	padding: 0.05em;
 	margin: 1em;
-	box-sizing:border-box;
-	-webkit-box-sizing:border-box;
-	-moz-box-sizing:border-box;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
 }
 
 
