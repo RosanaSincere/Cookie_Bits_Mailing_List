@@ -1,7 +1,7 @@
 /*
  *  Reset portion
  *
- *  http://meyerweb.com/eric/tools/css/reset/ 
+ *  http://meyerweb.com/eric/tools/css/reset/
  *  v2.0 | 20110126
  *  License: none (public domain)
 */
@@ -15,8 +15,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -26,8 +26,8 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-/* HTML5 display-role reset for older browsers 
-article, aside, details, figcaption, figure, 
+/* HTML5 display-role reset for older browsers
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -53,10 +53,10 @@ table {
 /* ------------------------------------------------------------------------------------------------------------------------*/
 
 html {
-		font-size: 1.125em;
-		line-height: 1.222em;
-		font-family: 'Nunito', Didact Gothic, CenturyGothic, Geneva, AppleGothic, sans-serif;
-	
+  font-size: 1.125em;
+  line-height: 1.222em;
+  font-family: 'Nunito', Didact Gothic, CenturyGothic, Geneva, AppleGothic, sans-serif;
+
 }
 body {
    /* background-color: #eaeded*/;
@@ -65,24 +65,24 @@ body {
 	text-align: center;
 }
 h1 {
-    font-size: 2.25em;
-    line-height: 1.0864em;
+  font-size: 2.25em;
+  line-height: 1.0864em;
     /*color:  #273746;*/
 	color: white;
-    text-align: center;
+  text-align: center;
 }
 h2 {
 	font-size:1.2em;
 	line-height: 1.4em;
 	text-align: center;
-	margin: 1.3em; 
+	margin: 1.3em;
 	color: #99FFFF;
 }
 ol {
-    list-style-type: none;
-    padding: 0;
-    margin: 1em;
-    overflow: hidden;
+  list-style-type: none;
+  padding: 0;
+  margin: 1em;
+  overflow: hidden;
     /*color:  #273746;*/
 	color: white ;
 }
@@ -102,16 +102,21 @@ li {
 	font-size: 0.7em;
 	cursor: pointer;
 	padding: 0.85em;
-	border-radius: 0.4em;
-	-webkit-transition-duration: 0.4s; 
+	border-radius: 0.4em
+  -webkit-transition-duration: 0.4s;
 	/* Safari */
-    transition-duration: 0.4s;
-    cursor: pointer;
+  transition-duration: 0.4s;
+  cursor: pointer;
 }
 #button:hover {
-    background-color: #99FFFF;
+  background-color: #99FFFF;
 }
 
 #footer{
 	color: white;
+}
+
+#phonemes{
+	font-size: 0.03em;
+	color: red;
 }

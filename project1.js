@@ -1,7 +1,7 @@
  window.onload = function() {
- 
-    alert( "welcome" );
- 
+
+    alert( "connected" );
+    $('#myform')[0].reset();
 };
 
 /*$(document).ready(function(){
