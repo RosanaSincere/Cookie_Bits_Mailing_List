@@ -118,8 +118,8 @@ input[type=text]:focus, input[type=email]:focus {
 	padding-top: 0.5 em;
 }
 
-#name, #email {
-
+#checkbox{
+	color: #ffb238;
 }
 
 #button{
