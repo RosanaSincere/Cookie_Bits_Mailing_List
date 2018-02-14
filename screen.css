@@ -103,7 +103,7 @@ li {
     border: 0.2em solid #99FFFF;
     border-radius: 0.1em;
     box-sizing: border-box;
-		background-color: #e6fff2;
+		background-color: blue;
 		color: black;
 }
 
@@ -117,9 +117,11 @@ input[type=text]:focus, input[type=email]:focus {
 	max-width:100%;
 	padding-top: 0.5 em;
 }
-#name {
-	padding-top: 0.02 em;
+
+#name, #email {
+
 }
+
 #button{
 	border: none;
 	background-color: gray;
