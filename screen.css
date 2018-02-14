@@ -111,6 +111,7 @@ li {
   transition-duration: 0.4s;
   cursor: pointer;
 }
+
 #button:hover {
   background-color: #99FFFF;
 }
@@ -121,7 +122,7 @@ li {
 
 #phonemes{
 	font-size: 0.7em;
-	color: red;
+	color: #FFA500;
 	padding: none;
 }
 
