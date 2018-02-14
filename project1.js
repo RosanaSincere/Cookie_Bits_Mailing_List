@@ -1,6 +1,6 @@
  window.onload = function() {
 
-    alert( "connected" );
+  //  alert( "connected" );
     $('#myform')[0].reset();
 };
 

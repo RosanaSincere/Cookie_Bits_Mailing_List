@@ -95,7 +95,6 @@ li {
 	-moz-box-sizing: border-box;
 }
 
-
 #button{
 	border: none;
 	background-color: gray;
@@ -117,8 +116,9 @@ li {
 }
 
 #phonemes{
-	font-size: 0.3em;
+	font-size: 0.5em;
 	color: red;
+	padding: none;
 }
 
 #crumbles {
