@@ -96,9 +96,9 @@ li {
 }
 
 	input[type=text], input[type=email] {
-    width: 33%;
+  /*  width: 33%;
     padding: 12px 20px;
-    margin: 8px 0;
+    margin: 8px 0;*/
      display: inline-block;
     border: 0.2em solid #99FFFF;
     border-radius: 0.1em;
@@ -107,11 +107,11 @@ li {
 		color: black;
 }
 
-/*input[type=text]:focus, input[type=email]:focus {
-    border: 3px solid #555;
+input[type=text]:focus, input[type=email]:focus {
+  /*  border: 3px solid #555; */
 		background-color: #e6fff2;
 		color: black;
-}*/
+}
 
 #pic{
 	max-width:100%;
