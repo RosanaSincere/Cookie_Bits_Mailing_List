@@ -103,14 +103,14 @@ li {
     border: 0.2em solid #99FFFF;
     border-radius: 0.1em;
     box-sizing: border-box;
-		background-color: blue;
+		background-color: #cbffef;
 		color: black;
 }
 
 input[type=text]:focus, input[type=email]:focus {
   /*  border: 3px solid #555; */
-		background-color: #e6fff2;
-		color: black;
+		background-color: #a9cce3;
+		color:
 }
 
 #pic{
