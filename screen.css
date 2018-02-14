@@ -95,6 +95,10 @@ li {
 	-moz-box-sizing: border-box;
 }
 
+#pic{
+	max-width:100%;
+}
+
 #button{
 	border: none;
 	background-color: gray;
