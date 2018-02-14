@@ -96,7 +96,7 @@ li {
 }
 
 	input[type=text], input[type=email] {
-    width: 100%;
+    width: 33%;
     padding: 12px 20px;
     margin: 8px 0;
      display: inline-block;
