@@ -7,6 +7,7 @@
 $(document).ready(function(){
     $("button").click(function(){
         $("#myform").hide();
+        $("#header").hide();
        $('body').append('<h1> Thank You ' + name + '</h1>');
        $('body').append('<h1> Confirm your email for a special treat! </h1>');
     });
